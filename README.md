@@ -6,6 +6,5 @@
   - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ### 🔭 I’m currently studying:  
    - :books: Science and Technology  
-  <br>
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-f-622194245/)
