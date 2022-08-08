@@ -1,12 +1,10 @@
 # :sun_with_face: Hello there!  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GFelixH&count_private=true&show_icons=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-<div>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GFelixH&count_private=true&show_icons=true&theme=blue-green" />
-</div>
-<div>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blue-green" />
-</div>
 
 ## 🔭 I’m currently studying:  
    - :books: Science and Technology 
