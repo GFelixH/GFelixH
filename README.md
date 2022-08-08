@@ -8,4 +8,5 @@
 ### :incoming_envelope: How to reach me  
 <a href="https://www.linkedin.com/in/gabriel-f-622194245/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+#
  ![Snake animation](https://github.com/GFelixH/GFelixH/blob/output/github-contribution-grid-snake.svg)
