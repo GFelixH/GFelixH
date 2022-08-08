@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :shrimp: I’m currently studying:   
-    :black_nib: Science and Technology  
+:black_nib::dna:Science and Technology  
    
 ## 📫 How to reach me: 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-f-622194245/)
