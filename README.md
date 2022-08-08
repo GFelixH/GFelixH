@@ -8,10 +8,8 @@
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)    
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
    
-## :incoming_envelope: How to reach me   
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-f-622194245/)  
+## :incoming_envelope: How to reach me  
+<a href="https://www.linkedin.com/in/gabriel-f-622194245/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "mailto:gabritelos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
  ![Snake animation](https://github.com/GFelixH/GFelixH/blob/output/github-contribution-grid-snake.svg)
-   
- 
-
