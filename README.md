@@ -11,7 +11,9 @@
   <!-- <img align="center" alt="C" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> -->
   <!-- <img align="center" alt="Cpp" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> -->
   <img align="center" alt="Csharp" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Js" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Js" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  
 </div>
 
 ### :incoming_envelope: How to reach me  
