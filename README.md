@@ -2,7 +2,7 @@
 <div>
 <a href="https://github.com/GFelixH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GFelixH&count_private=true&show_icons=true&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast&hide=GLSL,html,css,shell"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&theme=highcontrast&hide=GLSL,shell"/>
 </div>
 
 ### :dolphin: I study 
