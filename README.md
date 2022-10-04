@@ -1,9 +1,11 @@
 <h1 align="center"> :sunny: Hello there! :sunny: </h1>  
 
 <a href="https://github.com/GFelixH">
+ <!--
  <div>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=GFelixH&count_private=true&show_icons=true&theme=highcontrast"/><img  height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&theme=highcontrast&hide=GLSL,shell"/>
 </div>
+-->
 
 ### :dolphin: I study 
 <div style="display: inline_block"><br>
