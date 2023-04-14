@@ -1,11 +1,11 @@
 <h1 align="center"> :sunny: Hello there! :sunny: </h1>  
 
 <a href="https://github.com/GFelixH">
- <!--
+ <!---->
  <div>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=GFelixH&count_private=true&show_icons=true&theme=highcontrast"/><img  height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&theme=highcontrast&hide=GLSL,shell"/>
 </div>
--->
+<!---->
 
 ### :dolphin: I study 
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
   <!-- <img align="center" alt="Cpp" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> -->
   <img align="center" alt="Csharp" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Js" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+ <!-- <img align="center" alt="Js" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">-->
   
 </div>
 
